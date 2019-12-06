@@ -9,6 +9,7 @@ IFS=$'\n'
 file=(`cat pkgs`)
 ln=0
 for line in "${file[@]}"; do
-	echo $line
-  adb -s $SERIAL shell pm uninstall -k --user 0 $line
+  echo $line
+  l=`echo ${line} | sed -e "s/[\r\n]\+//g"`
+  adb -s $SERIAL shell pm uninstall -k --user 0 $l
 done

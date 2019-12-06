@@ -20,6 +20,7 @@ com.kddi.ux.station
 com.kddi.android.mamoru
 com.kddi.android.packageinstaller
 com.kddi.android.screenshotshare
+com.kddi.android.easysettingwizard
 jp.kddilabs.smartnetwork.troubleshooting
 web.wm.auone.jp
 
@@ -47,6 +48,39 @@ jp.co.sharp.android.shtranslatorv2
 jp.auone.wallet
 jp.co.sharp.android.shinstructionmanualshv33
 jp.co.disney.apps.base.disneymarketapp
+
+
+com.sonymobile.music.youtubeplugin
+com.sonymobile.advancedwidget.topcontacts
+com.sonymobile.moviecreator
+com.sonymobile.themes.id000
+com.sonymobile.themes.id001
+com.sonymobile.themes.id002
+com.sonymobile.themes.id003
+com.sonymobile.themes.id004
+com.sonymobile.themes.id005
+com.sonymobile.themes.id006
+com.sonymobile.themes.id007
+com.sonymobile.themes.id008
+com.sonymobile.photoanalyzer
+com.sonyericsson.wappush
+com.sonymobile.demoappchecker
+com.sonymobile.music.youtubekaraokeplugin
+com.sonymobile.music.wikipediapluginjpn
+com.sonymobile.slideshow
+com.sonymobile.xperiaweather
+com.sonymobile.coverwidget
+com.sonyericsson.music
+com.sonyericsson.photoeditor
+com.sonymobile.googleanalyticsproxy
+com.sonyericsson.suquashi.soundpicker
+com.sonymobile.music.googlelyricsplugin
+com.sonymobile.screenrecording
+com.sonymobile.dualshockmanager
+com.sonymobile.podcast
+com.sonyericsson.advancedwidget.clock
+com.sonyericsson.advancedwidget.photo
+com.sony.tvsideview.videoph
 
 
 com.facebook.katana

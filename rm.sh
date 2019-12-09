@@ -1,9 +1,6 @@
 #!/bin/bash
-
-echo $0
-echo $1
-
 SERIAL=$1
+echo "Serial number is $SERIAL"
 
 IFS=$'\n'
 file=(`cat pkgs`)

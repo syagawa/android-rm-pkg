@@ -1,5 +1,7 @@
 # Android Remove Package(app)
 
+Remove package(app) shell script for Android bloatware.
+
 ## Usage
 
 1. Connect Android Device and PC via USB cable.

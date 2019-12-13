@@ -22,4 +22,7 @@ Remove package(app) shell script for Android bloatware.
 
 ### Display installed packages
 
-1. `$ ./list.sh`
+1. Install ADB(Android Debug Bridge) to your PC.
+2. Connect Android Device and PC via USB cable.
+3. Check <serial number> by `$ adb devices`
+4. `$ ./list.sh <serial number> <pattern>`
